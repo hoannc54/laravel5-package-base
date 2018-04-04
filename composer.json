@@ -1,12 +1,12 @@
 {
-    "name": "vendor/package",
+    "name": "hoannc54/package",
     "description": "",
     "keywords": [],
     "homepage": "",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "hoannc54",
+            "email": "nguyenconghoan94@gmail.com"
         }
     ],
     "require": {
